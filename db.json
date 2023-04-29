@@ -1,5 +1,11 @@
-[
-{"products" : [
-  {id:1, "name":"adel"}
-]}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
